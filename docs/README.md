@@ -11,6 +11,8 @@ This directory is the central index for OctoAcme project management process docu
 - [Release & Deployment](./octoacme-release-and-deployment.md)
 - [Retrospective & Continuous Improvement](./octoacme-retrospective-and-continuous-improvement.md)
 - [Roles & Personas](./octoacme-roles-and-personas.md)
+- [Responsibility Matrix (RACI)](./octoacme-responsibility-matrix.md)
+- [Role Handoff & Participation Checklist](./octoacme-role-handoff-checklist.md)
 
 ## Process overview
 
@@ -33,4 +35,4 @@ Release and deployment standardize how features move to production. The process 
 Retrospectives help the team capture lessons learned after sprints, releases, milestones, and incidents. The goal is to turn feedback into a small set of owned action items that are tracked to completion and measured for impact.
 
 ### Roles & Personas
-OctoAcme project work is organized around clear roles and personas. Developers build and test solutions, Product Managers define value and priorities, and Project Managers coordinate timelines, risks, documentation, and stakeholder communication.
+OctoAcme project work is organized around clear roles and personas. Core roles (Developers, Product Managers, Project Managers) are supplemented by additional personas covering technical program management, architecture, delivery facilitation, UX, reliability, release engineering, data measurement, and security. A RACI responsibility matrix and a role handoff checklist provide practical guidance on who participates in each phase of the lifecycle.
